@@ -90,3 +90,4 @@ Built with love and creativity by:
 ## License
 
 MIT License — free to use, modify, and share.
+Ready to collaborate!
